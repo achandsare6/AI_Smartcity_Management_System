@@ -1,1 +1,0 @@
-# AI_Smartcity_Management_System
